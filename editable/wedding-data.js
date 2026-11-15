@@ -37,98 +37,91 @@ window.WEDDING_DATA = {
   },
 
   schedule: [
-    // Day 1: Thursday, 3rd December 2026
+    // 3rd DEC 2026
     {
-      day: "Day 1 · Thursday, 3rd Dec 2026",
-      label: "The Welcome Lunch & Mehndi",
-      time: "12:00 - 4:00 PM",
-      desc: "Arrive hungry, leave happy! Check in, catch up, and kick off the celebrations over a lavish lunch at Ananta Resorts & Spa. Add a touch of color to our celebrations. We invite you to join us for a fun-filled Mehndi afternoon.",
+      day: "Day 1 · 3rd Dec 2026",
+      label: "Check-in",
+      time: "12:00 PM onwards",
+      desc: "Check-in begins at 12:00 PM onwards.",
     },
     {
-      label: "The Bhaat Ceremony",
-      time: "02:00 PM",
-      desc: "Tradition takes centre stage with family blessings, heartfelt rituals, and all the warmth that makes a wedding truly special.",
+      label: "Welcome Lunch",
+      time: "Afternoon",
+      desc: "At Triangular Lawn",
     },
     {
-      label: "The Cricket Match",
-      time: "03:00 PM",
-      desc: "Put on your accessories and bring your front foot forward as we gear up for a fun, friendly but competitive Cricket Match between the “ladke waale” and “ladki waale”.",
+      label: "Bhaat",
+      time: "Afternoon",
+      desc: "At Triangular Lawn",
     },
     {
-      label: "Siesta Time",
-      time: "04:00 PM",
-      desc: "Nap, recharge, hydrate — and begin the serious business of getting wedding-ready. The evening has no plans of ending early!",
+      label: "High Tea",
+      time: "Late Afternoon",
+      desc: "At Kissaten Tea lounge",
     },
     {
-      label: "Sagan, Sangeet & Cocktail Night",
-      time: "06:30 PM",
-      desc: "Henna on the hands, cocktails in the air, music on full volume — consider this your official permission to dance irresponsibly. Wear your party clothes and get ready for an unforgettable evening of dance performances followed by Sufi night.",
+      label: "Sagan Ceremony",
+      time: "Evening",
+      desc: "At Sakura",
     },
     {
-      label: "Late Night After Party",
-      time: "11:00 PM onwards",
-      desc: "Still awake? Perfect. The heels come off, the volume goes up, and the party carries on for everyone who believes sleep is strictly a post-wedding activity. ‘Abhi to party shuru hui hai’",
-    },
-
-    // Day 2: Friday, 4th December 2026
-    {
-      day: "Day 2 · Friday, 4th Dec 2026",
-      label: "The Big Buffet Breakfast",
-      time: "08:00 AM",
-      desc: "Breakfast is not optional today. Load up on favourites, chai and courage — there is a full day of celebrations ahead!",
-    },
-    {
-      label: "Bride's Gour",
-      time: "09:00 AM",
-      desc: "A heartfelt family ceremony for Shubhi, filled with blessings, tradition and the kind of emotions that may require waterproof mascara.",
-    },
-    {
-      label: "Groom’s Jaago",
-      time: "09:00 AM",
-      desc: "Its time to wake the sleepy heads with our loud and cheerful ‘Jaago’ crowd. Dance to dhol, songs and boliyan as we make way around the resort.",
-    },
-    {
-      label: "Bride & Groom’s Haldi Ceremony",
-      time: "11:00 AM",
-      desc: "Time to turn the celebration yellow! Expect turmeric, sunshine, laughter and a few people who will definitely take the Haldi too seriously.",
-    },
-    {
-      label: "Rest & Recharge",
-      time: "03:00 PM",
-      desc: "A strategic pause: rest those dancing feet, recharge your social battery, and transform into your wedding-best.",
-    },
-    {
-      label: "Sehrabandi",
-      time: "05:00 PM",
-      desc: "The groom gets his finishing touch! Gather around as Raghav is dressed for the big moment, blessed by family and prepared for his grand Baraat entry.",
-    },
-    {
-      label: "The Baraat Procession",
-      time: "06:00 PM",
-      desc: "Raghav is on his way! Bring your best moves, loudest cheers and absolutely no concern for rhythm — the Baraat has officially taken over.",
-    },
-    {
-      label: "Jaimala",
-      time: "08:00 PM",
-      desc: "The moment everyone has been waiting for: Raghav and Shubhi meet on stage, exchange garlands, smiles and perhaps a little friendly competition.",
-    },
-    {
-      label: "Phere",
-      time: "11:00 PM",
-      desc: "Under the stars and around the sacred fire, Raghav and Shubhi take the seven vows — officially beginning forever (and a lifetime of deciding what to order for dinner).",
+      label: "Brews & Bites",
+      time: "24 Hours Available",
+      desc: "24hr available Brews & Bites @ Kissaten Tea lounge",
     },
 
-    // Day 3: Saturday, 5th December 2026
+    // 4th DEC 2026
     {
-      day: "Day 3 · Saturday, 5th Dec 2026",
-      label: "Goodbye Breakfast",
-      time: "08:30 AM",
-      desc: "One last breakfast, one last round of hugs, and one last “when are we meeting again?” before we head home with full hearts and fuller camera rolls.",
+      day: "Day 2 · 4th Dec 2026",
+      label: "Breakfast",
+      time: "Morning",
+      desc: "At Shio kosho Restaurant",
+    },
+    {
+      label: "Haldi",
+      time: "Morning / Midday",
+      desc: "At Ikigai Lawn",
+    },
+    {
+      label: "High Tea",
+      time: "4:00 PM",
+      desc: "At Kissaten Tea lounge",
+    },
+    {
+      label: "Wedding",
+      time: "Evening",
+      desc: "At Waterfall Lawn",
+    },
+    {
+      label: "Brews & Bites",
+      time: "24 Hours Available",
+      desc: "24hr available Brews & Bites @ Kissaten Tea lounge",
+    },
+
+    // 5th DEC 2026
+    {
+      day: "Day 3 · 5th Dec 2026",
+      label: "Breakfast",
+      time: "Morning",
+      desc: "At Shio kosho Restaurant",
+    },
+    {
+      label: "Check-out",
+      time: "9:00 AM",
+      desc: "Check-out at 9:00 AM",
     },
   ],
 
+  guestServices: {
+    title: "Services available for guests",
+    items: ["Men grooming", "Women salon"],
+    note: "Enquire at help desk for further information",
+  },
+
   messages: {
-    speechBubble: "Hey! You're invited ❤️",
+    heroHeading: "The beginning of our forever",
+    coupleEyebrow: "wedding celebrations of",
+    speechBubble: "", // removed per customer request
     bouquetClick: "Can't wait to celebrate with you.",
     secretNote: "You found our little secret.\nSome people you just want in every photo —\nyou're one of them.",
     secretSignoff: "— Raghav & Shubhi",
@@ -147,7 +140,8 @@ window.WEDDING_DATA = {
 
   bgm: {
     src: "./editable/assets/bgm.mp3",
-    title: "Sai Pallavi's Intro (From 'Amaran') — Sayee Rakshith",
+    title: "Humsafar Humraaz Tu — Yasser Desai, Arko",
+    startTime: "1:29",
     volume: 0.8,
   },
 };

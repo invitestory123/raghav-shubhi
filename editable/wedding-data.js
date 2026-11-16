@@ -88,7 +88,14 @@ window.WEDDING_DATA = {
       label: "Late Night After Party",
       time: "11:00 PM onwards",
       location: "Sakura",
-      desc: "Still awake? Perfect. The heels come off, the volume goes up, and the party carries on for everyone who believes sleep is strictly a post-wedding activity. ‘Abhi to party shuru hui hai’. (24hr available Brews & Bites @ Kissaten Tea lounge)",
+      desc: "Still awake? Perfect. The heels come off, the volume goes up, and the party carries on for everyone who believes sleep is strictly a post-wedding activity. ‘Abhi to party shuru hui hai’.",
+    },
+    {
+      dayId: 1,
+      label: "Brews & Bites",
+      time: "24hr Available",
+      location: "Kissaten Tea Lounge",
+      desc: "Round-the-clock refreshments, tea, coffee, and quick bites available 24 hours for all guests.",
     },
 
     // ==========================================
@@ -163,7 +170,14 @@ window.WEDDING_DATA = {
       label: "Phere",
       time: "11:00 PM",
       location: "Pagoda",
-      desc: "Under the stars and around the sacred fire, Raghav and Shubhi take the seven vows — officially beginning forever (and a lifetime of deciding what to order for dinner). (24hr available Brews & Bites @ Kissaten Tea lounge)",
+      desc: "Under the stars and around the sacred fire, Raghav and Shubhi take the seven vows — officially beginning forever (and a lifetime of deciding what to order for dinner).",
+    },
+    {
+      dayId: 2,
+      label: "Brews & Bites",
+      time: "24hr Available",
+      location: "Kissaten Tea Lounge",
+      desc: "Round-the-clock refreshments, tea, coffee, and quick bites available 24 hours for all guests.",
     },
 
     // ==========================================
@@ -183,6 +197,13 @@ window.WEDDING_DATA = {
       time: "09:00 AM",
       location: "Resort Reception",
       desc: "Check-out at 9:00 AM. Thank you for making our wedding celebrations truly unforgettable!",
+    },
+    {
+      dayId: 3,
+      label: "Brews & Bites",
+      time: "24hr Available",
+      location: "Kissaten Tea Lounge",
+      desc: "Round-the-clock refreshments, tea, coffee, and quick bites available 24 hours for all guests.",
     },
   ],
 

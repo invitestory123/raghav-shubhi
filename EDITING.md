@@ -42,6 +42,7 @@ Interactive smooth-scroll day travel buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, 
   - `04:00 PM`: Siesta Time & High Tea (Kissaten Tea Lounge)
   - `06:30 PM`: Sagan, Sangeet & Cocktail Night (Sakura)
   - `11:00 PM onwards`: Late Night After Party (Sakura)
+  - `24hr Available`: Brews & Bites (Kissaten Tea Lounge)
 - **Day 2: Friday, 4th December 2026**
   - `08:00 AM`: The Big Buffet Breakfast (Shio Kosho Restaurant)
   - `09:00 AM`: Bride's Gour (Bride's Suite)
@@ -53,9 +54,11 @@ Interactive smooth-scroll day travel buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, 
   - `06:00 PM`: The Baraat Procession (Promenade to Pagoda)
   - `08:00 PM`: Jaimala (Pagoda)
   - `11:00 PM`: Phere (Pagoda)
+  - `24hr Available`: Brews & Bites (Kissaten Tea Lounge)
 - **Day 3: Saturday, 5th December 2026**
   - `08:30 AM`: Goodbye Breakfast (Shio Kosho Restaurant)
   - `09:00 AM`: Check-out (Resort Reception)
+  - `24hr Available`: Brews & Bites (Kissaten Tea Lounge)
 
 ### 6. Services Available for Guests
 - Men grooming

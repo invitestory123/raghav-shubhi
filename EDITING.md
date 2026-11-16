@@ -1,6 +1,6 @@
 # Customer Editing Guide — ghibli-selfie (Raghav & Shubhi)
 
-Retro camera & selfie framing invitation featuring an interactive couple selfie, camera countdown, background music player (*Humsafar Humraaz Tu* from 1:29), complete 3-day itinerary, guest services information, Japanese castle venue map for Ananta Spa & Resort Jaipur, calendar links, and downloadable photo keepsake.
+Retro camera & selfie framing invitation featuring an interactive couple selfie, camera countdown, background music player (*Humsafar Humraaz Tu* from 1:29), complete 3-day itinerary with day-switching tabs, highlighted time & venue buttons, guest services information, Japanese castle venue map for Ananta Spa & Resort Jaipur, calendar links, and downloadable photo keepsake.
 
 ---
 
@@ -33,29 +33,29 @@ All routine customer edits are configured in:
 - `messages.speechBubble`: `""` (speech bubble removed per request)
 
 ### 5. Day Schedule / Itinerary
-Full 3-day wedding schedule from 3rd to 5th December 2026:
+Interactive day transfer buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, `Day 3 (5 Dec)`, `All Days`.
 - **Day 1: Thursday, 3rd December 2026**
-  - `12:00 PM onwards`: Check-in
+  - `12:00 PM onwards`: Check-in (Resort Reception)
   - `12:00 - 4:00 PM`: The Welcome Lunch & Mehndi (Triangular Lawn)
   - `02:00 PM`: The Bhaat Ceremony (Triangular Lawn)
-  - `03:00 PM`: The Cricket Match
-  - `04:00 PM`: Siesta Time & High Tea (Kissaten Tea lounge)
+  - `03:00 PM`: The Cricket Match (Resort Grounds)
+  - `04:00 PM`: Siesta Time & High Tea (Kissaten Tea Lounge)
   - `06:30 PM`: Sagan, Sangeet & Cocktail Night (Sakura)
-  - `11:00 PM onwards`: Late Night After Party (Kissaten Brews & Bites 24hr)
+  - `11:00 PM onwards`: Late Night After Party (Sakura)
 - **Day 2: Friday, 4th December 2026**
-  - `08:00 AM`: The Big Buffet Breakfast (Shio kosho Restaurant)
-  - `09:00 AM`: Bride's Gour
-  - `09:00 AM`: Groom’s Jaago
+  - `08:00 AM`: The Big Buffet Breakfast (Shio Kosho Restaurant)
+  - `09:00 AM`: Bride's Gour (Bride's Suite)
+  - `09:00 AM`: Groom’s Jaago (Resort Courtyard)
   - `11:00 AM`: Bride & Groom’s Haldi Ceremony (Ikigai Lawn)
-  - `03:00 PM`: Rest & Recharge
-  - `04:00 PM`: High Tea (Kissaten Tea lounge)
-  - `05:00 PM`: Sehrabandi
-  - `06:00 PM`: The Baraat Procession
-  - `08:00 PM`: Jaimala (Waterfall Lawn)
-  - `11:00 PM`: Phere (Waterfall Lawn)
+  - `03:00 PM`: Rest & Recharge (Resort Rooms)
+  - `04:00 PM`: High Tea (Kissaten Tea Lounge)
+  - `05:00 PM`: Sehrabandi (Groom's Suite)
+  - `06:00 PM`: The Baraat Procession (Promenade to Pagoda)
+  - `08:00 PM`: Jaimala (Pagoda)
+  - `11:00 PM`: Phere (Pagoda)
 - **Day 3: Saturday, 5th December 2026**
-  - `08:30 AM`: Goodbye Breakfast (Shio kosho Restaurant)
-  - `09:00 AM`: Check-out
+  - `08:30 AM`: Goodbye Breakfast (Shio Kosho Restaurant)
+  - `09:00 AM`: Check-out (Resort Reception)
 
 ### 6. Services Available for Guests
 - Men grooming

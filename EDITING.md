@@ -33,7 +33,7 @@ All routine customer edits are configured in:
 - `messages.speechBubble`: `""` (speech bubble removed per request)
 
 ### 5. Day Schedule / Itinerary
-Interactive smooth-scroll day travel buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, and `Day 3 (5 Dec)`. By default, all days and events are displayed in a continuous timeline with time and location highlighted in rounded badge buttons; the day buttons navigate directly to each day's section with dynamic scroll-spy tracking.
+Interactive day tabs: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, and `Day 3 (5 Dec)`. Clicking on any day tab instantly displays only that day's itinerary with smooth reveal animations.
 - **Day 1: Thursday, 3rd December 2026**
   - `12:00 PM onwards`: Check-in (Resort Reception)
   - `12:00 - 4:00 PM`: The Welcome Lunch & Mehndi (Triangular Lawn)
@@ -45,12 +45,12 @@ Interactive smooth-scroll day travel buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, 
   - `24hr Available`: Brews & Bites (Kissaten Tea Lounge)
 - **Day 2: Friday, 4th December 2026**
   - `08:00 AM`: The Big Buffet Breakfast (Shio Kosho Restaurant)
-  - `09:00 AM`: Bride's Gour (Bride's Suite)
+  - `09:00 AM`: Bride's Gour (No venue pill)
   - `09:00 AM`: Groom’s Jaago (Resort Courtyard)
   - `11:00 AM`: Bride & Groom’s Haldi Ceremony (Ikigai Lawn)
   - `03:00 PM`: Rest & Recharge (Resort Rooms)
   - `04:00 PM`: High Tea (Kissaten Tea Lounge)
-  - `05:00 PM`: Sehrabandi (Groom's Suite)
+  - `05:00 PM`: Sehrabandi (Promenade to Pagoda)
   - `06:00 PM`: The Baraat Procession (Promenade to Pagoda)
   - `08:00 PM`: Jaimala (Pagoda)
   - `11:00 PM`: Phere (Pagoda)

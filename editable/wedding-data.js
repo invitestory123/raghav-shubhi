@@ -113,7 +113,6 @@ window.WEDDING_DATA = {
       dayId: 2,
       label: "Bride's Gour",
       time: "09:00 AM",
-      location: "Bride's Suite",
       desc: "A heartfelt family ceremony for Shubhi, filled with blessings, tradition and the kind of emotions that may require waterproof mascara.",
     },
     {
@@ -148,7 +147,7 @@ window.WEDDING_DATA = {
       dayId: 2,
       label: "Sehrabandi",
       time: "05:00 PM",
-      location: "Groom's Suite",
+      location: "Promenade to Pagoda",
       desc: "The groom gets his finishing touch! Gather around as Raghav is dressed for the big moment, blessed by family and prepared for his grand Baraat entry.",
     },
     {

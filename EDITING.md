@@ -33,7 +33,7 @@ All routine customer edits are configured in:
 - `messages.speechBubble`: `""` (speech bubble removed per request)
 
 ### 5. Day Schedule / Itinerary
-Interactive day transfer buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, `Day 3 (5 Dec)`, `All Days`.
+Interactive smooth-scroll day travel buttons: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, and `Day 3 (5 Dec)`. By default, all days and events are displayed in a continuous timeline with time and location highlighted in rounded badge buttons; the day buttons navigate directly to each day's section with dynamic scroll-spy tracking.
 - **Day 1: Thursday, 3rd December 2026**
   - `12:00 PM onwards`: Check-in (Resort Reception)
   - `12:00 - 4:00 PM`: The Welcome Lunch & Mehndi (Triangular Lawn)

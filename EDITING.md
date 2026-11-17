@@ -71,7 +71,7 @@ Interactive day tabs: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, and `Day 3 (5 Dec)`. Cli
 
 ### 8. Images
 Configured in `editable/assets/` or `images` in `wedding-data.js`:
-- `couple`: Studio Ghibli watercolor anime couple selfie without sindoor (`couple.png`)
+- `couple`: Studio Ghibli watercolor anime couple selfie with clean-shaven groom (no beard) and bride without sindoor (`couple.png`)
 - `mosque`: Japanese castle / fort illustration on map (`mosque.png`)
 - `bouquet`: Bouquet graphic (`bouquet.png`)
 - `gramophone`: Gramophone music icon (`gramophone.png`)

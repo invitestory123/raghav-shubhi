@@ -9,3 +9,12 @@
 .day-tab-active{background:var(--primary);color:var(--primary-foreground);box-shadow:0 4px 12px oklch(0.6 0.14 25 / 0.35);transform:scale(1.04)}
 .day-tab-inactive{background:var(--popover);color:var(--muted-foreground);border:1px solid oklch(0.7 0.06 30 / 0.25)}
 .day-tab-inactive:hover{color:var(--color-ink);background:oklch(0.96 0.02 80)}
+
+.guest-services-card{margin-top:5.5rem;margin-bottom:2.5rem;padding:2.25rem 1.75rem;width:100%;max-width:34rem;border-radius:1.5rem;text-align:center;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:var(--popover);box-shadow:var(--shadow-lift);border:1px solid oklch(0.7 0.06 30 / 0.25)}
+@media (min-width:640px){.guest-services-card{margin-top:7rem;padding:2.75rem 2.5rem}}
+.guest-services-eyebrow{display:block;font-size:0.68rem;letter-spacing:0.38em;text-transform:uppercase;color:var(--primary);font-weight:600;margin-bottom:1.15rem}
+.guest-services-title{font-family:var(--font-display);font-size:1.75rem;line-height:1.35;color:var(--color-ink);margin-bottom:1.5rem}
+@media (min-width:640px){.guest-services-title{font-size:2.15rem}}
+.guest-services-pills{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:1rem;margin-top:1.6rem;margin-bottom:1.6rem}
+.guest-services-pill{display:inline-flex;align-items:center;gap:0.5rem;border-radius:9999px;padding:0.65rem 1.35rem;font-size:0.78rem;letter-spacing:0.1em;text-transform:uppercase;font-weight:600;color:var(--color-ink);background:oklch(0.7 0.06 30 / 0.1);border:1px solid oklch(0.7 0.06 30 / 0.22);box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.guest-services-note{margin-top:1.6rem;font-size:0.82rem;line-height:1.6;color:var(--muted-foreground);max-width:24rem;margin-left:auto;margin-right:auto}

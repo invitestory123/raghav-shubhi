@@ -52,13 +52,12 @@ Interactive day tabs: `Day 1 (3 Dec)`, `Day 2 (4 Dec)`, and `Day 3 (5 Dec)`. Cli
   - `04:00 PM`: High Tea (Kissaten Tea Lounge)
   - `05:00 PM`: Sehrabandi (Promenade to Pagoda)
   - `06:00 PM`: The Baraat Procession (Promenade to Pagoda)
-  - `08:00 PM`: Jaimala (Pagoda)
-  - `11:00 PM`: Phere (Pagoda)
+  - `08:00 PM`: Jaimala (Waterfall Lawn)
+  - `11:00 PM`: Phere (Waterfall Lawn)
   - `24hr Available`: Brews & Bites (Kissaten Tea Lounge)
 - **Day 3: Saturday, 5th December 2026**
   - `08:30 AM`: Goodbye Breakfast (Shio Kosho Restaurant)
   - `09:00 AM`: Check-out (Resort Reception)
-  - `24hr Available`: Brews & Bites (Kissaten Tea Lounge)
 
 ### 6. Services Available for Guests
 - Men grooming

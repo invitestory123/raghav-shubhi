@@ -161,14 +161,14 @@ window.WEDDING_DATA = {
       dayId: 2,
       label: "Jaimala",
       time: "08:00 PM",
-      location: "Pagoda",
+      location: "Waterfall Lawn",
       desc: "The moment everyone has been waiting for: Raghav and Shubhi meet on stage, exchange garlands, smiles and perhaps a little friendly competition.",
     },
     {
       dayId: 2,
       label: "Phere",
       time: "11:00 PM",
-      location: "Pagoda",
+      location: "Waterfall Lawn",
       desc: "Under the stars and around the sacred fire, Raghav and Shubhi take the seven vows — officially beginning forever (and a lifetime of deciding what to order for dinner).",
     },
     {
@@ -196,13 +196,6 @@ window.WEDDING_DATA = {
       time: "09:00 AM",
       location: "Resort Reception",
       desc: "Check-out at 9:00 AM. Thank you for making our wedding celebrations truly unforgettable!",
-    },
-    {
-      dayId: 3,
-      label: "Brews & Bites",
-      time: "24hr Available",
-      location: "Kissaten Tea Lounge",
-      desc: "Round-the-clock refreshments, tea, coffee, and quick bites available 24 hours for all guests.",
     },
   ],
 

@@ -64,13 +64,6 @@ window.WEDDING_DATA = {
     },
     {
       dayId: 1,
-      label: "The Cricket Match",
-      time: "03:00 PM",
-      location: "Resort Grounds",
-      desc: "Put on your accessories and bring your front foot forward as we gear up for a fun, friendly but competitive Cricket Match between the “ladke waale” and “ladki waale”.",
-    },
-    {
-      dayId: 1,
       label: "Siesta Time & High Tea",
       time: "04:00 PM",
       location: "Kissaten Tea Lounge",
@@ -121,6 +114,13 @@ window.WEDDING_DATA = {
       time: "09:00 AM",
       location: "Resort Courtyard",
       desc: "It's time to wake the sleepy heads with our loud and cheerful ‘Jaago’ crowd. Dance to dhol, songs and boliyan as we make way around the resort.",
+    },
+    {
+      dayId: 2,
+      label: "The Cricket Match",
+      time: "09:30 AM",
+      location: "Resort Grounds",
+      desc: "Put on your accessories and bring your front foot forward as we gear up for a fun, friendly but competitive Cricket Match between the “ladke waale” and “ladki waale”.",
     },
     {
       dayId: 2,
